@@ -1,4 +1,4 @@
- {"Land_Mil_WiredFence_F", {20787.3, 7311.13, 0}, 145.286,true},
+    {"Land_Mil_WiredFence_F", {20787.3, 7311.13, 0}, 145.286,true},
     {"Land_Mil_WiredFence_F", {20806.5, 7324.27, 0}, 146.143,true},
     {"Land_Mil_WiredFence_F", {20846.5, 7315.26, 0}, 143.143,true},
     {"Land_Mil_WiredFence_F", {20865, 7329.27, 0}, 142.286,true},
