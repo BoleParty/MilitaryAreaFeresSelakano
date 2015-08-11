@@ -7,7 +7,6 @@ If you already got your file edited then just copy/paste the lines from my secto
 
 In case you need help with installation process just contact me:
 
-info@tacongamingmilita.com
-boleparty@tacongamingmilitia.com
+info@tacongamingmilita.com or boleparty@tacongamingmilitia.com
 
 Regards
