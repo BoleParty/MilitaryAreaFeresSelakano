@@ -1,5 +1,7 @@
 This area i used for the Sector B script (by Suppe). You can just put it on your server or you can use it for the Sector B as well.
 
+If you want to use it for the Sector addon just replace your mission.sqm with the provided one.
+
 If you didn`t do any changes to your altis.h then just replace yours with mine.
 
 
